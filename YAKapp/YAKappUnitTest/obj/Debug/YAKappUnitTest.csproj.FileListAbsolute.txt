@@ -1,0 +1,12 @@
+c:\Users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKappUnitTest\bin\Debug\YAKappUnitTest.dll
+c:\Users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKappUnitTest\bin\Debug\YAKappUnitTest.pdb
+c:\Users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKappUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKappUnitTest\bin\Debug\YAKapp.exe
+c:\Users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKappUnitTest\bin\Debug\Serilog.dll
+c:\Users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKappUnitTest\bin\Debug\Serilog.Sinks.File.dll
+c:\Users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKappUnitTest\bin\Debug\YAKapp.pdb
+c:\Users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKappUnitTest\bin\Debug\Serilog.xml
+c:\Users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKappUnitTest\bin\Debug\Serilog.Sinks.File.xml
+c:\Users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKappUnitTest\obj\Debug\YAKappUnitTest.csprojResolveAssemblyReference.cache
+c:\Users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKappUnitTest\obj\Debug\YAKappUnitTest.dll
+c:\Users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKappUnitTest\obj\Debug\YAKappUnitTest.pdb

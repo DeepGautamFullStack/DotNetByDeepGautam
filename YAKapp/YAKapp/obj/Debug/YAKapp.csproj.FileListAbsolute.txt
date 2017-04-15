@@ -1,0 +1,14 @@
+c:\users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKapp\bin\Debug\YAKapp.exe.config
+c:\users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKapp\bin\Debug\YAKapp.exe
+c:\users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKapp\bin\Debug\YAKapp.pdb
+c:\users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKapp\bin\Debug\Serilog.dll
+c:\users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKapp\bin\Debug\Serilog.Sinks.ColoredConsole.dll
+c:\users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKapp\bin\Debug\Serilog.Sinks.File.dll
+c:\users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKapp\bin\Debug\Serilog.xml
+c:\users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKapp\bin\Debug\Serilog.Sinks.File.xml
+c:\users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKapp\obj\Debug\YAKapp.csprojResolveAssemblyReference.cache
+c:\users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKapp\obj\Debug\YAKapp.exe
+c:\users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKapp\obj\Debug\YAKapp.pdb
+C:\Users\deepgautam\Source\Repos\NewRepo\YAKapp\DotNetByDeepGautam\YAKapp\YAKapp\bin\Debug\YAKapp.exe.config
+C:\Users\deepgautam\Source\Repos\NewRepo\YAKapp\DotNetByDeepGautam\YAKapp\YAKapp\obj\Debug\YAKapp.exe
+C:\Users\deepgautam\Source\Repos\NewRepo\YAKapp\DotNetByDeepGautam\YAKapp\YAKapp\obj\Debug\YAKapp.pdb
