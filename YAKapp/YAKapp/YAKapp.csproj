@@ -64,6 +64,7 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+    <None Include="Xpirit .NET AssignmentYAK India v1.0.docx" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="herd.xml">
