@@ -10,3 +10,15 @@ c:\Users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKappUnitTest\
 c:\Users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKappUnitTest\obj\Debug\YAKappUnitTest.csprojResolveAssemblyReference.cache
 c:\Users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKappUnitTest\obj\Debug\YAKappUnitTest.dll
 c:\Users\deepgautam\documents\visual studio 2015\Projects\YAKapp\YAKappUnitTest\obj\Debug\YAKappUnitTest.pdb
+C:\Users\deepgautam\Source\Repos\NewRepo\YAKapp\DotNetByDeepGautam\YAKapp\YAKappUnitTest\bin\Debug\YAKappUnitTest.dll
+C:\Users\deepgautam\Source\Repos\NewRepo\YAKapp\DotNetByDeepGautam\YAKapp\YAKappUnitTest\bin\Debug\YAKappUnitTest.pdb
+C:\Users\deepgautam\Source\Repos\NewRepo\YAKapp\DotNetByDeepGautam\YAKapp\YAKappUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\deepgautam\Source\Repos\NewRepo\YAKapp\DotNetByDeepGautam\YAKapp\YAKappUnitTest\bin\Debug\YAKapp.exe
+C:\Users\deepgautam\Source\Repos\NewRepo\YAKapp\DotNetByDeepGautam\YAKapp\YAKappUnitTest\bin\Debug\Serilog.dll
+C:\Users\deepgautam\Source\Repos\NewRepo\YAKapp\DotNetByDeepGautam\YAKapp\YAKappUnitTest\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\deepgautam\Source\Repos\NewRepo\YAKapp\DotNetByDeepGautam\YAKapp\YAKappUnitTest\bin\Debug\YAKapp.pdb
+C:\Users\deepgautam\Source\Repos\NewRepo\YAKapp\DotNetByDeepGautam\YAKapp\YAKappUnitTest\bin\Debug\Serilog.xml
+C:\Users\deepgautam\Source\Repos\NewRepo\YAKapp\DotNetByDeepGautam\YAKapp\YAKappUnitTest\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\deepgautam\Source\Repos\NewRepo\YAKapp\DotNetByDeepGautam\YAKapp\YAKappUnitTest\obj\Debug\YAKappUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\deepgautam\Source\Repos\NewRepo\YAKapp\DotNetByDeepGautam\YAKapp\YAKappUnitTest\obj\Debug\YAKappUnitTest.dll
+C:\Users\deepgautam\Source\Repos\NewRepo\YAKapp\DotNetByDeepGautam\YAKapp\YAKappUnitTest\obj\Debug\YAKappUnitTest.pdb

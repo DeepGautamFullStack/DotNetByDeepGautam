@@ -38,10 +38,6 @@ namespace YAKapp
                     //Convert Xml element data in to list of herd class object
                     var listOfHerd = Utility.ConvertXElementToObject(herdEntries);
 
-                    // Dictionary<int, string> obj = new Dictionary<int, string>();
-                    CSVimplemenmtaions cSVimplemenmtaions = new CSVimplemenmtaions();
-                    var listOValues = cSVimplemenmtaions.ReadFile("");
-
                     if (listOfHerd.Count>0)
                     {
                         logger.Information("We have got " +listOfHerd.Count+ " Yak to calculate the milk.");
