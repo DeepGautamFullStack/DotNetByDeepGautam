@@ -56,6 +56,7 @@ namespace LongRunningMethodTest
         {
         public static void LongRunningMethod(int iterations)
         {
+
             var watch3 = new Stopwatch();
             watch3.Start();
             for (int i = 0; i < iterations; i++)
