@@ -1,0 +1,12 @@
+c:\users\deepgautam\documents\visual studio 2015\Projects\DocumentDbStarted\DocumentDbStarted\bin\Debug\DocumentDbStarted.exe.config
+c:\users\deepgautam\documents\visual studio 2015\Projects\DocumentDbStarted\DocumentDbStarted\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+c:\users\deepgautam\documents\visual studio 2015\Projects\DocumentDbStarted\DocumentDbStarted\bin\Debug\DocumentDB.Spatial.Sql.dll
+c:\users\deepgautam\documents\visual studio 2015\Projects\DocumentDbStarted\DocumentDbStarted\bin\Debug\DocumentDbStarted.exe
+c:\users\deepgautam\documents\visual studio 2015\Projects\DocumentDbStarted\DocumentDbStarted\bin\Debug\DocumentDbStarted.pdb
+c:\users\deepgautam\documents\visual studio 2015\Projects\DocumentDbStarted\DocumentDbStarted\bin\Debug\Microsoft.Azure.Documents.Client.dll
+c:\users\deepgautam\documents\visual studio 2015\Projects\DocumentDbStarted\DocumentDbStarted\bin\Debug\Newtonsoft.Json.dll
+c:\users\deepgautam\documents\visual studio 2015\Projects\DocumentDbStarted\DocumentDbStarted\bin\Debug\Microsoft.Azure.Documents.Client.xml
+c:\users\deepgautam\documents\visual studio 2015\Projects\DocumentDbStarted\DocumentDbStarted\bin\Debug\Newtonsoft.Json.xml
+c:\users\deepgautam\documents\visual studio 2015\Projects\DocumentDbStarted\DocumentDbStarted\obj\Debug\DocumentDbStarted.csprojResolveAssemblyReference.cache
+c:\users\deepgautam\documents\visual studio 2015\Projects\DocumentDbStarted\DocumentDbStarted\obj\Debug\DocumentDbStarted.exe
+c:\users\deepgautam\documents\visual studio 2015\Projects\DocumentDbStarted\DocumentDbStarted\obj\Debug\DocumentDbStarted.pdb
