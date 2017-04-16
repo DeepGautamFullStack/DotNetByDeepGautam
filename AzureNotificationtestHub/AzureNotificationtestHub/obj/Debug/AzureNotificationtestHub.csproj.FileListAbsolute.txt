@@ -1,0 +1,11 @@
+c:\users\deepgautam\documents\visual studio 2015\Projects\AzureNotificationtestHub\AzureNotificationtestHub\bin\Debug\AzureNotificationtestHub.exe.config
+c:\users\deepgautam\documents\visual studio 2015\Projects\AzureNotificationtestHub\AzureNotificationtestHub\bin\Debug\AzureNotificationtestHub.exe
+c:\users\deepgautam\documents\visual studio 2015\Projects\AzureNotificationtestHub\AzureNotificationtestHub\bin\Debug\AzureNotificationtestHub.pdb
+c:\users\deepgautam\documents\visual studio 2015\Projects\AzureNotificationtestHub\AzureNotificationtestHub\bin\Debug\Microsoft.Azure.NotificationHubs.dll
+c:\users\deepgautam\documents\visual studio 2015\Projects\AzureNotificationtestHub\AzureNotificationtestHub\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+c:\users\deepgautam\documents\visual studio 2015\Projects\AzureNotificationtestHub\AzureNotificationtestHub\bin\Debug\Newtonsoft.Json.dll
+c:\users\deepgautam\documents\visual studio 2015\Projects\AzureNotificationtestHub\AzureNotificationtestHub\bin\Debug\Microsoft.Azure.NotificationHubs.xml
+c:\users\deepgautam\documents\visual studio 2015\Projects\AzureNotificationtestHub\AzureNotificationtestHub\bin\Debug\Newtonsoft.Json.xml
+c:\users\deepgautam\documents\visual studio 2015\Projects\AzureNotificationtestHub\AzureNotificationtestHub\obj\Debug\AzureNotificationtestHub.csprojResolveAssemblyReference.cache
+c:\users\deepgautam\documents\visual studio 2015\Projects\AzureNotificationtestHub\AzureNotificationtestHub\obj\Debug\AzureNotificationtestHub.exe
+c:\users\deepgautam\documents\visual studio 2015\Projects\AzureNotificationtestHub\AzureNotificationtestHub\obj\Debug\AzureNotificationtestHub.pdb

@@ -1,0 +1,8 @@
+C:\Users\deepgautam\documents\visual studio 2015\Projects\OrderManagementService\OrderManagementClient\obj\Debug\OrderManagementClient.csprojResolveAssemblyReference.cache
+C:\Users\deepgautam\documents\visual studio 2015\Projects\OrderManagementService\OrderManagementClient\bin\Debug\OrderManagementClient.exe.config
+C:\Users\deepgautam\documents\visual studio 2015\Projects\OrderManagementService\OrderManagementClient\bin\Debug\OrderManagementClient.exe
+C:\Users\deepgautam\documents\visual studio 2015\Projects\OrderManagementService\OrderManagementClient\bin\Debug\OrderManagementClient.pdb
+C:\Users\deepgautam\documents\visual studio 2015\Projects\OrderManagementService\OrderManagementClient\bin\Debug\OrderManagementModels.exe
+C:\Users\deepgautam\documents\visual studio 2015\Projects\OrderManagementService\OrderManagementClient\bin\Debug\OrderManagementModels.pdb
+C:\Users\deepgautam\documents\visual studio 2015\Projects\OrderManagementService\OrderManagementClient\obj\Debug\OrderManagementClient.exe
+C:\Users\deepgautam\documents\visual studio 2015\Projects\OrderManagementService\OrderManagementClient\obj\Debug\OrderManagementClient.pdb

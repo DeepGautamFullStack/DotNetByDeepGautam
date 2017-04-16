@@ -1,0 +1,1 @@
+C:\Users\deepgautam\documents\visual studio 2015\Projects\OrderManagementService\OrderManagementClient\obj\Debug\OrderManagementClient.csprojResolveAssemblyReference.cache

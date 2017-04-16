@@ -1,0 +1,8 @@
+c:\users\deepgautam\documents\visual studio 2015\Projects\WCFSecuirtyTest\HostSecurityApp\bin\Debug\HostSecurityApp.exe.config
+c:\users\deepgautam\documents\visual studio 2015\Projects\WCFSecuirtyTest\HostSecurityApp\bin\Debug\HostSecurityApp.exe
+c:\users\deepgautam\documents\visual studio 2015\Projects\WCFSecuirtyTest\HostSecurityApp\bin\Debug\HostSecurityApp.pdb
+c:\users\deepgautam\documents\visual studio 2015\Projects\WCFSecuirtyTest\HostSecurityApp\bin\Debug\WCFSecuirtyTest.dll
+c:\users\deepgautam\documents\visual studio 2015\Projects\WCFSecuirtyTest\HostSecurityApp\bin\Debug\WCFSecuirtyTest.pdb
+c:\users\deepgautam\documents\visual studio 2015\Projects\WCFSecuirtyTest\HostSecurityApp\obj\Debug\HostSecurityApp.csprojResolveAssemblyReference.cache
+c:\users\deepgautam\documents\visual studio 2015\Projects\WCFSecuirtyTest\HostSecurityApp\obj\Debug\HostSecurityApp.exe
+c:\users\deepgautam\documents\visual studio 2015\Projects\WCFSecuirtyTest\HostSecurityApp\obj\Debug\HostSecurityApp.pdb

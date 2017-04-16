@@ -1,0 +1,2 @@
+c:\users\deepgautam\documents\visual studio 2015\Projects\AppServicesSvcBusQ1\AppServicesSvcBusQ1\bin\Debug\Sender.exe.config
+C:\Users\deepgautam\Source\Repos\DotNetByDeepGautam\AppServicesSvcBusQ1\AppServicesSvcBusQ1\bin\Debug\Sender.exe.config

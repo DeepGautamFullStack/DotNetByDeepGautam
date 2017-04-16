@@ -1,0 +1,6 @@
+c:\users\deepgautam\documents\visual studio 2015\Projects\WCFSecuirtyTest\WCFSecuirtyTest\bin\Debug\WCFSecuirtyTest.dll.config
+c:\users\deepgautam\documents\visual studio 2015\Projects\WCFSecuirtyTest\WCFSecuirtyTest\bin\Debug\WCFSecuirtyTest.dll
+c:\users\deepgautam\documents\visual studio 2015\Projects\WCFSecuirtyTest\WCFSecuirtyTest\bin\Debug\WCFSecuirtyTest.pdb
+c:\users\deepgautam\documents\visual studio 2015\Projects\WCFSecuirtyTest\WCFSecuirtyTest\obj\Debug\WCFSecuirtyTest.csprojResolveAssemblyReference.cache
+c:\users\deepgautam\documents\visual studio 2015\Projects\WCFSecuirtyTest\WCFSecuirtyTest\obj\Debug\WCFSecuirtyTest.dll
+c:\users\deepgautam\documents\visual studio 2015\Projects\WCFSecuirtyTest\WCFSecuirtyTest\obj\Debug\WCFSecuirtyTest.pdb

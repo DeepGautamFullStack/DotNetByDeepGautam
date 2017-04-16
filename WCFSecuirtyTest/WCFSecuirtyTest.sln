@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFSecuirtyTest", "WCFSecuirtyTest\WCFSecuirtyTest.csproj", "{91A666C6-462E-4B4F-958B-57594D471DEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostSecurityApp", "HostSecurityApp\HostSecurityApp.csproj", "{FA5278B9-B738-4939-9897-94D3A2398F15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91A666C6-462E-4B4F-958B-57594D471DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A666C6-462E-4B4F-958B-57594D471DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A666C6-462E-4B4F-958B-57594D471DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A666C6-462E-4B4F-958B-57594D471DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA5278B9-B738-4939-9897-94D3A2398F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5278B9-B738-4939-9897-94D3A2398F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5278B9-B738-4939-9897-94D3A2398F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5278B9-B738-4939-9897-94D3A2398F15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

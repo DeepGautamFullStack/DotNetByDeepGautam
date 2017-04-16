@@ -1,0 +1,8 @@
+c:\users\deepgautam\documents\visual studio 2015\Projects\AzureServiceBusTestReciever\AzureServiceBusTestReciever\bin\Debug\AzureServiceBusTestReciever.exe.config
+c:\users\deepgautam\documents\visual studio 2015\Projects\AzureServiceBusTestReciever\AzureServiceBusTestReciever\bin\Debug\AzureServiceBusTestReciever.exe
+c:\users\deepgautam\documents\visual studio 2015\Projects\AzureServiceBusTestReciever\AzureServiceBusTestReciever\bin\Debug\AzureServiceBusTestReciever.pdb
+c:\users\deepgautam\documents\visual studio 2015\Projects\AzureServiceBusTestReciever\AzureServiceBusTestReciever\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\deepgautam\documents\visual studio 2015\Projects\AzureServiceBusTestReciever\AzureServiceBusTestReciever\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\deepgautam\documents\visual studio 2015\Projects\AzureServiceBusTestReciever\AzureServiceBusTestReciever\obj\Debug\AzureServiceBusTestReciever.csprojResolveAssemblyReference.cache
+c:\users\deepgautam\documents\visual studio 2015\Projects\AzureServiceBusTestReciever\AzureServiceBusTestReciever\obj\Debug\AzureServiceBusTestReciever.exe
+c:\users\deepgautam\documents\visual studio 2015\Projects\AzureServiceBusTestReciever\AzureServiceBusTestReciever\obj\Debug\AzureServiceBusTestReciever.pdb

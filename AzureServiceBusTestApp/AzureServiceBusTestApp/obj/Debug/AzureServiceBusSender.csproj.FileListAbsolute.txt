@@ -1,0 +1,3 @@
+c:\users\deepgautam\documents\visual studio 2015\Projects\AzureServiceBusTestApp\AzureServiceBusTestApp\bin\Debug\AzureServiceBusTestApp.exe.config
+c:\users\deepgautam\documents\visual studio 2015\Projects\AzureServiceBusTestApp\AzureServiceBusTestApp\obj\Debug\AzureServiceBusTestApp.exe
+c:\users\deepgautam\documents\visual studio 2015\Projects\AzureServiceBusTestApp\AzureServiceBusTestApp\obj\Debug\AzureServiceBusTestApp.pdb

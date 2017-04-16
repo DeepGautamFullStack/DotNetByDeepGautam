@@ -1,0 +1,6 @@
+c:\users\deepgautam\documents\visual studio 2015\Projects\TestAppForHackerRank\TestAppForHackerRank\bin\Debug\TestAppForHackerRank.exe.config
+c:\users\deepgautam\documents\visual studio 2015\Projects\TestAppForHackerRank\TestAppForHackerRank\bin\Debug\TestAppForHackerRank.exe
+c:\users\deepgautam\documents\visual studio 2015\Projects\TestAppForHackerRank\TestAppForHackerRank\bin\Debug\TestAppForHackerRank.pdb
+c:\users\deepgautam\documents\visual studio 2015\Projects\TestAppForHackerRank\TestAppForHackerRank\obj\Debug\TestAppForHackerRank.csprojResolveAssemblyReference.cache
+c:\users\deepgautam\documents\visual studio 2015\Projects\TestAppForHackerRank\TestAppForHackerRank\obj\Debug\TestAppForHackerRank.exe
+c:\users\deepgautam\documents\visual studio 2015\Projects\TestAppForHackerRank\TestAppForHackerRank\obj\Debug\TestAppForHackerRank.pdb

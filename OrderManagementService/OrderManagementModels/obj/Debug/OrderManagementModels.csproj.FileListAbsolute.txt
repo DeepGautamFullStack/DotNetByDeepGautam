@@ -1,0 +1,5 @@
+C:\Users\deepgautam\documents\visual studio 2015\Projects\OrderManagementService\OrderManagementModels\bin\Debug\OrderManagementModels.exe.config
+C:\Users\deepgautam\documents\visual studio 2015\Projects\OrderManagementService\OrderManagementModels\bin\Debug\OrderManagementModels.exe
+C:\Users\deepgautam\documents\visual studio 2015\Projects\OrderManagementService\OrderManagementModels\bin\Debug\OrderManagementModels.pdb
+C:\Users\deepgautam\documents\visual studio 2015\Projects\OrderManagementService\OrderManagementModels\obj\Debug\OrderManagementModels.exe
+C:\Users\deepgautam\documents\visual studio 2015\Projects\OrderManagementService\OrderManagementModels\obj\Debug\OrderManagementModels.pdb
