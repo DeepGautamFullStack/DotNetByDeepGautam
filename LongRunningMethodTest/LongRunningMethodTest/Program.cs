@@ -48,7 +48,11 @@ namespace LongRunningMethodTest
 
             #endregion End of thread execution of long running operations
 
+            #region start of async call of method
+            var result =  LongRunningClass.LongRunningAsyn();
+            var result1 = LongRunningClass.LongRunningAsyn();
 
+            #endregion async call of method ends
             Console.ReadLine();
         }
     }
@@ -70,6 +74,31 @@ namespace LongRunningMethodTest
 
         }
 
+       public static async Task<int> LongRunningAsyn()
+        {
+            var watch1 = new Stopwatch();
+            watch1.Start();
+            // The body of the method is expected to contain an awaited asynchronous  
+            // call.  
+            // Task.FromResult is a placeholder for actual work that returns a string.  
+            var today = await Task.FromResult<string>(DateTime.Now.DayOfWeek.ToString());
+
+            // The method then can process the result in some way.  
+            int leisureHours;
+            if (today.First() == 'S')
+                leisureHours = 16;
+            else
+                leisureHours = 5;
+
+            // Because the return statement specifies an operand of type int, the  
+            // method must have a return type of Task<int>.  
+
+            watch1.Stop();
+            var result1 = watch1.Elapsed;
+            Console.WriteLine("Time taken by  operation async -" + result1);
+            return leisureHours;
         }
+
+    }
 }
 
