@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Single Sign On Test Application By Deep Gautam</h1>
+    <p class="lead"> url for application is 1- https://ssobydeepg.azurewebsites.net/ 2-https://ssobydeep12.azurewebsites.net/ login on one and you will login directly in another applications.</p>
+    <p>How does single sign-on with Azure Active Directory work?</p>
+    <p>When a user “signs in” to an application, they go through an authentication process where they are required to prove that they are who they say they are. Without single sign-on, this is typically done by entering a password that is stored at the application, and the user is required to know this password.
+Azure AD supports three different ways to sign in to applications:
+Federated Single Sign-On enables applications to redirect to Azure AD for user authentication instead of prompting for its own password. This is supported for applications that support protocols such as SAML 2.0, WS-Federation, or OpenID Connect, and is the richest mode of single sign-on.
+Password-based Single Sign-On enables secure application password storage and replay using a web browser extension or mobile app. This leverages the existing sign-in process provided by the application, but enables an administrator to manage the passwords and does not require the user to know the password.
+Existing Single Sign-On enables Azure AD to leverage any existing single sign-on that has been set up for the application, but enables these applications to be linked to the Office 365 or Azure AD access panel portals, and also enables additional reporting in Azure AD when the applications are launched there.</p>
+    <p><a href="https://docs.microsoft.com/en-us/azure/active-directory/active-directory-appssoaccess-whatis" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Create your first ASP.NET web app in Azure in five minutes</h2>
+        <p>
+            This Quickstart helps you deploy your first ASP.NET web app to Azure App Service in just a few minutes. When you're finished, you'll have a simple web app up and running in the cloud.
+        </p>
+        <p><a class="btn btn-default" href="https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-get-started-dotnet">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Create an ASP.NET app in Azure with SQL Database</h2>
+        <p>This tutorial shows you how to develop a data-driven ASP.NET web app in Azure, connect it to Azure SQL Database, and enable your data-driven functionality. When you're finished, you'll have a ASP.NET application running in Azure App Service and connected to SQL Database.</p>
+        <p><a class="btn btn-default" href="https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-dotnet-sqldatabase">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Get started with API Apps, ASP.NET, and Swagger in Azure App Service</h2>
+        <p>This is the first in a series of tutorials that show how to use features of Azure App Service that are helpful for developing and hosting RESTful APIs. This tutorial covers support for API metadata in Swagger format.</p>
+        <p><a class="btn btn-default" href="https://docs.microsoft.com/en-us/azure/app-service-api/app-service-api-dotnet-get-started">Learn more &raquo;</a></p>
+    </div>
+</div>

@@ -5,3 +5,6 @@ c:\users\deepgautam\documents\visual studio 2015\Projects\AzureServiceBusTestRec
 c:\users\deepgautam\documents\visual studio 2015\Projects\AzureServiceBusTestReciever\AzureServiceBusTestReciever\bin\Debug\Microsoft.ServiceBus.xml
 c:\users\deepgautam\documents\visual studio 2015\Projects\AzureServiceBusTestReciever\AzureServiceBusTestReciever\obj\Debug\AzureServiceBusTestReciever.exe
 c:\users\deepgautam\documents\visual studio 2015\Projects\AzureServiceBusTestReciever\AzureServiceBusTestReciever\obj\Debug\AzureServiceBusTestReciever.pdb
+C:\Users\deepgautam\Source\Repos\DotNetByDeepGautam\AzureServiceBusTestReciever\AzureServiceBusTestReciever\bin\Debug\AzureServiceBusTestReciever.exe.config
+C:\Users\deepgautam\Source\Repos\DotNetByDeepGautam\AzureServiceBusTestReciever\AzureServiceBusTestReciever\obj\Debug\AzureServiceBusTestReciever.exe
+C:\Users\deepgautam\Source\Repos\DotNetByDeepGautam\AzureServiceBusTestReciever\AzureServiceBusTestReciever\obj\Debug\AzureServiceBusTestReciever.pdb

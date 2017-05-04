@@ -1,3 +1,6 @@
 c:\users\deepgautam\documents\visual studio 2015\Projects\AzureServiceBusTestApp\AzureServiceBusTestApp\bin\Debug\AzureServiceBusTestApp.exe.config
 c:\users\deepgautam\documents\visual studio 2015\Projects\AzureServiceBusTestApp\AzureServiceBusTestApp\obj\Debug\AzureServiceBusTestApp.exe
 c:\users\deepgautam\documents\visual studio 2015\Projects\AzureServiceBusTestApp\AzureServiceBusTestApp\obj\Debug\AzureServiceBusTestApp.pdb
+C:\Users\deepgautam\Source\Repos\DotNetByDeepGautam\AzureServiceBusTestApp\AzureServiceBusTestApp\bin\Debug\AzureServiceBusTestApp.exe.config
+C:\Users\deepgautam\Source\Repos\DotNetByDeepGautam\AzureServiceBusTestApp\AzureServiceBusTestApp\obj\Debug\AzureServiceBusTestApp.exe
+C:\Users\deepgautam\Source\Repos\DotNetByDeepGautam\AzureServiceBusTestApp\AzureServiceBusTestApp\obj\Debug\AzureServiceBusTestApp.pdb
