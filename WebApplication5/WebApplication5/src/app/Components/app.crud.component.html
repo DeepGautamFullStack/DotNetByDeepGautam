@@ -1,0 +1,158 @@
+﻿
+<div class="jumbotron">
+    <h1>Angular 4, Web API, Entity Framework-CRUD Operations With Visual Studio 2015, DotNet Techy</h1>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h2 class="panel-title">All Clients</h2>
+            </div>
+            <div class="panel panel-primary">
+                <div class="panel-body">
+                    <table class="table">
+                        <tr>
+                            <th>#</th>
+                            <th>ID</th>
+                            <th>Name</th>
+                            <th>Code</th>
+                        </tr>
+                        <tr *ngFor="let client of clients; let i = index">
+                            <td>{{i + 100}}</td>
+                            <td>{{client.Id}}</td>
+                            <td>{{client.Name}}</td>
+                            <td>{{client.Code}}</td>
+                        </tr>
+                    </table>`
+                </div>
+            </div>
+        </div>
+    </div>
+    
+        <div class="col-md-6">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">Insert Client</h2>
+                </div>
+                <div class="panel panel-primary">
+                    <div class="panel-body">
+                        <div class="form-group" [formGroup]="clientInsertForm">
+                            <div class="col-md-2">
+                                <label for="usr">Name:</label>
+                            </div>
+                            <div class="col-md-10">
+                                <input type="text"  class="form-control" formControlName="nameInsert">
+                            </div>
+                            <br /><br />
+                            <div class="col-md-2">
+                                <label for="usr">Code:</label>
+                            </div>
+                            <div class="col-md-10">
+                                <input type="text"  class="form-control" formControlName="codeInsert">
+                            </div>
+                            <div class="col-md-6">
+                                <div  class="alert alert-success" >
+                                    <strong>{{messageInsert}}</strong>
+                                </div>
+                            </div>
+
+                            <div class="col-md-2">
+                                <button type="submit" (click)="insertClient()" class="btn btn-primary">Submit</button>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>
+<div class="panel-heading"></div>
+<div class="row">
+    
+        <div class="col-md-6">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">Update Client</h2>
+                </div>
+                <div class="panel panel-primary">
+                    <div class="panel-body">
+                        <div class="form-group" [formGroup]="clientUpdateForm" >
+                            <div class="col-md-2">
+                                <label for="usr">Id:</label>
+                            </div>
+                            <div class="col-md-10">
+                                <select class="form-control" formControlName="id">
+                                    <option *ngFor="let client of clients" value={{client.Id}}>
+                                        {{client.Id}}
+                                    </option>
+                                </select>
+                            </div>
+                            <br /><br />
+                            <div class="col-md-2">
+                                <label for="usr">Name:</label>
+                            </div>
+                            <div class="col-md-10">
+                                <input type="text" class="form-control" formControlName="name">
+                            </div>
+                            <br /><br />
+                            <div class="col-md-2">
+                                <label for="usr">Code:</label>
+                            </div>
+                            <div class="col-md-10">
+                                <input type="text" class="form-control" formControlName="code">
+                            </div>
+                            <div class="col-md-6">
+                                <div  class="alert alert-success">
+                                    <strong>{{messageUpdate}}</strong>
+                                </div>
+                            </div>
+
+                            <div class="col-md-2">
+                                <button type="submit" (click)="updateClient()" class="btn btn-primary">Update</button>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+    
+        <div class="col-md-6">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">Delete Client</h2>
+                </div>
+                <div class="panel panel-primary">
+                    <div class="panel-body">
+                        <div class="form-group" [formGroup]="clientDeleteForm" >
+                            <div class="col-md-2">
+                                <label for="usr">Id:</label>
+                            </div>
+                            <div class="col-md-10">
+                                <select class="form-control" formControlName="id">
+                                    <option *ngFor="let client of clients" value={{client.Id}}>
+                                        {{client.Id}}
+                                    </option>
+                                </select>
+                            </div>
+                            <br /><br />
+                            <div class="col-md-6">
+                                <div class="alert alert-success">
+                                    <strong>{{messageDelete}}</strong>
+                                </div>
+                            </div>
+
+                            <div class="col-md-2">
+                                <button type="submit" (click)="deleteClient()" class="btn btn-primary">Delete</button>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+</div>
+
+

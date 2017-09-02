@@ -38,15 +38,15 @@ namespace SSOwithDotnetcore.Controllers
             var connectionString = "Endpoint=sb://deepgautam.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=JBNZc6zh8GA7tmC/XJvD2Av55rhdorxKDDKaki8wbjs=";
             var queueName = "queuedeeptest";
 
-            var client = QueueClient.CreateFromConnectionString(connectionString, queueName);
+            //var client = QueueClient.CreateFromConnectionString(connectionString, queueName);
 
-            client.OnMessage(message =>
-            {
-               obj.Body= String.Format("Message body: {0}", message.GetBody<String>());
-                obj.Id=String.Format("Message id: {0}", message.MessageId);
-            });
+            //client.OnMessage(message =>
+            //{
+            //   obj.Body= String.Format("Message body: {0}", message.GetBody<String>());
+            //    obj.Id=String.Format("Message id: {0}", message.MessageId);
+            //});
 
-            objlist.Add(obj);
+            //objlist.Add(obj);
 
 
             return View(objlist);

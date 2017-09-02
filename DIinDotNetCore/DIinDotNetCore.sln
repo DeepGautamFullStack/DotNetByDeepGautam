@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7210F256-EBC5-4265-9A1C-33596ABCBD35}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5D25D5D7-FB5E-4636-B4ED-7C33B9A4A1F0}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "DIinDotNetCore", "src\DIinDotNetCore\DIinDotNetCore.xproj", "{DC40FAD1-D01E-43A6-B187-260B41CD8E8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC40FAD1-D01E-43A6-B187-260B41CD8E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC40FAD1-D01E-43A6-B187-260B41CD8E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC40FAD1-D01E-43A6-B187-260B41CD8E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC40FAD1-D01E-43A6-B187-260B41CD8E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DC40FAD1-D01E-43A6-B187-260B41CD8E8B} = {7210F256-EBC5-4265-9A1C-33596ABCBD35}
+	EndGlobalSection
+EndGlobal
