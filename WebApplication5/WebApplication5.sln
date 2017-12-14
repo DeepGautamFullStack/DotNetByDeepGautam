@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication5", "WebAppli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientServiceWebAPI", "ClientServiceWebAPI\ClientServiceWebAPI.csproj", "{98FD7726-F7A4-4B43-8D6A-4F1ABBCAD4A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryService", "InventoryService\InventoryService.csproj", "{D8530943-4EA0-4AF3-A627-1CEE8D214068}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{98FD7726-F7A4-4B43-8D6A-4F1ABBCAD4A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98FD7726-F7A4-4B43-8D6A-4F1ABBCAD4A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98FD7726-F7A4-4B43-8D6A-4F1ABBCAD4A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8530943-4EA0-4AF3-A627-1CEE8D214068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8530943-4EA0-4AF3-A627-1CEE8D214068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8530943-4EA0-4AF3-A627-1CEE8D214068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8530943-4EA0-4AF3-A627-1CEE8D214068}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
