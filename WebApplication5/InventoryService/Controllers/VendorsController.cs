@@ -84,7 +84,7 @@ namespace InventoryService.Controllers
                 }
             }
 
-            return StatusCode(HttpStatusCode.NoContent);
+            return Ok(vendor);
         }
 
         // POST: api/Vendors
