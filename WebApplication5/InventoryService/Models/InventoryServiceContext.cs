@@ -22,5 +22,7 @@ namespace InventoryService.Models
         public System.Data.Entity.DbSet<InventoryService.Models.Item> Items { get; set; }
 
         public System.Data.Entity.DbSet<InventoryService.Models.Vendor> Vendors { get; set; }
+
+        public System.Data.Entity.DbSet<InventoryService.Models.Order> Orders { get; set; }
     }
 }
